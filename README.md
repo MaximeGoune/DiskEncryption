@@ -1,6 +1,7 @@
 # DiskEncryption
 
-## Apps-installation-with-Intune-Chrome-
+## Disk Encryption Configuration Bitlocker via Endpoint Secutiy
+
 
 1#Go to Endpoint Secutiy
 
@@ -30,4 +31,7 @@
 <img src="https://imgur.com/sCgYDGr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
+6*After Device Synchronisation , Validate Bitlocker is Enabled
 
+<img src="https://imgur.com/DhjqXWf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
